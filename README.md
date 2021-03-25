@@ -1,2 +1,5 @@
 # curso-django
 Código do curso de django do Python-PRO-BR
+
+[![Build Status](https://travis-ci.org/lu1zibrahim/curso-django.svg?branch=main)](https://travis-ci.org/lu1zibrahim/curso-django)
+[![codecov](https://codecov.io/gh/lu1zibrahim/curso-django/branch/main/graph/badge.svg?token=0DH9TN7QBC)](https://codecov.io/gh/lu1zibrahim/curso-django)
